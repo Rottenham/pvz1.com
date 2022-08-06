@@ -1,0 +1,9 @@
+[book]
+title = "历史文献集"
+authors = []
+language = "zh"
+multilingual = true
+src = "src"
+
+[build]
+build-dir = "history"
