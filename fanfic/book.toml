@@ -1,0 +1,9 @@
+[book]
+title = "植圈同人文库"
+authors = []
+language = "zh"
+multilingual = true
+src = "src"
+
+[build]
+build-dir = "fanfic"

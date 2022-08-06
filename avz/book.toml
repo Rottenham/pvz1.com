@@ -1,0 +1,9 @@
+[book]
+title = "AvZ 键控教程 by 向量cwl"
+authors = ["vector-wlc"]
+language = "zh"
+multilingual = true
+src = "src"
+
+[build]
+build-dir = "avz"
