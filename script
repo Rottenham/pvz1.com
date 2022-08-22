@@ -1,0 +1,3 @@
+export nm=history
+
+mdbook build && mv $nm /www/wwwroot/wiki.crescb.com/$nm && rm -rf $nm
