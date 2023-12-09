@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for nm in */ ; do
+git pull && for nm in */ ; do
     if [ -d "$nm" ]; then
         echo "Processing $nm folder..."
         cd "$nm" && mdbook build && {
