@@ -4,7 +4,7 @@ git pull && for nm in */ ; do
     if [ -d "$nm" ]; then
         echo "Processing $nm folder..."
         cd "$nm" && mdbook build && {
-            if [ $nm = "welcome/" ]; then
+            if [ "$nm" = "welcome/" ]; then
                 cp -r ./* /www/wwwroot/www.crescb.com/
             else
                 cp -r ./* /www/wwwroot/www.crescb.com/"$nm"
