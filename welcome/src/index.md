@@ -1,8 +1,8 @@
 # PVZ One
 
-欢迎来到 PVZ One, 这里有你想知道的关于 PVZ 1 的一切.
+欢迎来到 PVZ One, 看见关于 PVZ 1 的点点滴滴, 看了又看.
 
-## 🌐相关站点
+## 🌐附属站点
 
 - [PVZ Forum, 自由的植僵论坛](https://forum.pvz1.com)
 - [PVZ Wiki, 搜集一切关于 PVZ 的一切](https://forum.pvz1.com)
