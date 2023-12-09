@@ -1,9 +1,0 @@
-[book]
-title = "新轨道读本 by Crescendo"
-authors = ["Crescendo"]
-language = "zh"
-multilingual = true
-src = "src"
-
-[build]
-build-dir = "track"
