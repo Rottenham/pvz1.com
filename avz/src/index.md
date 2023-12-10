@@ -47,7 +47,7 @@ AvZ 操作精度为理论上的100%绝对精准，使用这套框架将再也不
 
 **注意以下存储库的作者不是AsmVsZombies的作者，因此出现任何问题请咨询存储库中的相关作者**
 
-AvZ 扩展功能库 : [AvZLib](https://github.com/qrmd0/AvZLib)
+AvZ 扩展功能库 : [AvZLib](https://github.com/qrmd0/AvZLib)（[GitLab 镜像](https://gitlab.com/avzlib/AvZLib)）
 
 AvZ 脚本库 : [AvZScript](https://github.com/qrmd0/AvZScript)
 
