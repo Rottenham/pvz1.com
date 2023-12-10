@@ -56,6 +56,8 @@
 
 * [属性转换](./advance/transform_attribute.md)
 
+* [源码剖析操作队列内存运行机制](./advance/operation_queue_src.md)
+
 * [运行调试](./advance/debug.md)
 
 * ["智能"操作](./advance/smart.md)
@@ -65,3 +67,4 @@
 * [变量内存管理](./advance/memory_manage.md)
 
 * [插件](./advance/extension.md)
+

@@ -12,7 +12,7 @@ High-Precision PvZ TAS Frameworks
 
 高精度植物大战僵尸键控框架
 
-> 最终更新时间：2022-08-04
+> 适用于 AvZ1 版本: 221001
 
 ## 简介
 
@@ -23,7 +23,8 @@ AvZ 操作精度为理论上的100%绝对精准，使用这套框架将再也不
 本项目使用 [VSCode](https://code.visualstudio.com/) + MinGW 进行代码编辑、编译和注入。 
 
 ## 安装
-[【PvZ】Assembly vs. Zombies 教程](https://www.bilibili.com/video/BV1A7411V79A)
+
+[【新人友好】3分钟教你写出第一个AvZ键控脚本！](https://www.bilibili.com/video/BV1pC4y1U7WL)
 
 ## 使用教程
 
@@ -31,9 +32,10 @@ AvZ 操作精度为理论上的100%绝对精准，使用这套框架将再也不
 
 > **🔗站外链接**
 > 
-> 在 [Gitee](https://gitee.com/vector-wlc/AsmVsZombies/blob/master/tutorial/catalogue.md) 上阅读
+> 在 [GitLab](https://gitlab.com/vector-wlc/AsmVsZombies/-/blob/4d02c035f85fe511fd90869a3d450ea0360d9587/tutorial/catalogue.md) 上阅读
 >
-> 在 [GitHub](https://github.com/vector-wlc/AsmVsZombies/blob/master/tutorial/catalogue.md) 上阅读
+> 在 [GitHub](https://github.com/vector-wlc/AsmVsZombies/blob/4d02c035f85fe511fd90869a3d450ea0360d9587/tutorial/catalogue.md) 上阅读
+
 
 > **📺其它教程**
 > 

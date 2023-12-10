@@ -7,12 +7,12 @@
 
 # 起步
 
-## 本教程只完全适配 `AvZ 220630` 版本，如果根据本教程编写的脚本出现语法错误，请先检查是否与该教程的版本相对应，如果确定自身没有任何问题，请及时联系我
+## 本教程只完全适配 `AvZ1 221001` 版本，如果根据本教程编写的脚本出现语法错误，请先检查是否与该教程的版本相对应，如果确定自身没有任何问题，请及时联系我
 
 AvZ 版本号按照以下方式查找
 ```C++
 // AvZ根目录->inc->libavz.h 
-#define __AVZ_VERSION__ 220630
+#define __AVZ_VERSION__ 221001
 ```
 
 欢迎学习 AsmVsZombies 键控框架，AsmVsZombies 是由我和 [yuchenxi0_0](https://www.bilibili.com/video/BV1WJ41177a3) 两人合作完成，yuchenxi0_0 主要完成了反汇编注入工作，我主要完成了键控逻辑。我相信这套框架会带给脚本编写者焕然一新的使用体验。
@@ -34,9 +34,9 @@ AvZ 版本号按照以下方式查找
 
 接下来给出一些传送门
 
-视频教程：[bilibili](https://www.bilibili.com/video/BV1A7411V79A)
+视频教程：[bilibili](https://www.bilibili.com/video/BV1pC4y1U7WL)
 
-开发安装包下载：[Gitee](https://gitee.com/vector-wlc/AsmVsZombies) / [GitHub](https://github.com/vector-wlc/AsmVsZombies)  点击网页右边的发行版
+开发安装包下载：[Gitee](https://gitee.com/vector-wlc/AsmVsZombies/releases/download/v1.0.0/AsmVsZombies.exe)
 
 更新：
 
