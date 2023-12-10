@@ -11,4 +11,4 @@ git pull && for folder_name in */ ; do
             fi
         } && cp -r ./book/* $dest && cp ../favicon.png $dest/favicon.png && rm -f $dest/favicon.svg && rm -f ./index.html && rm -f ./index.md && rm -rf book && cd ..
     fi
-done
+done && git status

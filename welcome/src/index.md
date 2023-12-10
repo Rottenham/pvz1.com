@@ -16,3 +16,9 @@
 - [植圈同人文库](./fanfic/index.md)
 - [历史文献集](./history/index.md)
 - [时空数据](./timespace/index.md)
+
+## 🔗友情链接
+
+- [百度植物大战僵尸吧 - 吧主推荐](https://tieba.baidu.com/f?kw=%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8&ie=utf-8&tab=good)
+- [植物僵尸相关下载](http://jspvz.com/download.htm)
+- [植僵工具箱](https://pvz.tools/)
