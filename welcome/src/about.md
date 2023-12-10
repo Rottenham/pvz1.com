@@ -4,7 +4,7 @@ pvz1.com 由 Crescendo 独立开发、出资、维护。
 
 本站纯粹为公共利益设立，不考虑营利，故无任何广告，且暂不接受捐赠。当前运营成本约为 ￥500/年。
 
-由于服务器设在**境外**，pvz1.com 及其子站点（如 PVZ Forum、PVZ Wiki等）无法保证境内用户的可访问性与加载速度。
+由于服务器设在**境外**，pvz1.com 及其子站点（如 [PVZ Forum](https://forum.pvz1.com)、[PVZ Wiki](https://wiki.pvz1.com) 等）无法保证境内用户的可访问性与加载速度。
 
 ## 💬联系站长
 
