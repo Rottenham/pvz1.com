@@ -4,6 +4,3 @@ authors = ["vector-wlc"]
 language = "zh"
 multilingual = true
 src = "src"
-
-[build]
-build-dir = "avz"
