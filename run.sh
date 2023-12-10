@@ -5,10 +5,10 @@ git pull && for folder_name in */ ; do
         echo "Processing $folder_name folder..."
         cd "$folder_name" && mdbook build && {
             if [ "$folder_name" = "welcome/" ]; then
-                cp -r ./book/* /www/wwwroot/www.crescb.com/
+                export dest="/www/wwwroot/www.crescb.com/"
             else
-                cp -r ./book/* /www/wwwroot/www.crescb.com/"$folder_name"
+                export dest="/www/wwwroot/www.crescb.com/$folder_name"
             fi
-        } && rm -rf book && cd ..
+        } && cp -r ./book/* $dest && rm -f $dest/favicon.svg && cp ../favicon.png $dest/favicon.png && rm -rf book && cd ..
     fi
 done

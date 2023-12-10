@@ -3,6 +3,3 @@ authors = []
 language = "en"
 multilingual = false
 src = "src"
-
-[output.html]
-favicon = "../favicon.ico"
