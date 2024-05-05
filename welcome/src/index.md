@@ -14,7 +14,7 @@
 
 - [AvZ 键控教程](./avz/index.md)
 - [植圈同人文库](./fanfic/index.md)
-- [历史文献集](./history/index.md)
+- [技术断代史](./history/index.md)
 - [时空数据](./timespace/index.md)
 
 ## 🔗友情链接
