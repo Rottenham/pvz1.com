@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\n$(date)"
+echo -e "\n[$(date)]"
 export PATH=$PATH:/usr/local/bin/mdbook
 
 git pull && for folder_name in */ ; do
