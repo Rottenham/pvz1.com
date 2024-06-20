@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export PATH=$PATH:/usr/local/bin/mdbook
+
 git pull && for folder_name in */ ; do
     if [ -d "$folder_name" ]; then
         echo "Processing $folder_name folder..."
