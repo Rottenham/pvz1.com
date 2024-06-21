@@ -1,12 +1,11 @@
 #!/bin/bash
 
 echo -e "\n[$(date)]"
-export PATH=$PATH:/usr/local/bin/mdbook
 
 git pull && for folder_name in */ ; do
     if [ -d "$folder_name" ]; then
         echo "Processing $folder_name folder..."
-        cd "$folder_name" && mdbook build && {
+        cd "$folder_name" && /usr/local/bin/mdbook build && {
             if [ "$folder_name" = "welcome/" ]; then
                 export dest="/www/wwwroot/www.crescb.com/"
             else
