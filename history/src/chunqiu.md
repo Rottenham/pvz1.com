@@ -1,4 +1,4 @@
-# 一二代小众史
+# 一二代非主流史
 ## 【Endless Extraterrestrial Civilization History】春秋
 
 > 作者：czmppppp
