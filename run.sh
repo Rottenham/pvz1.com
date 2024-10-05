@@ -11,6 +11,10 @@ git pull && for folder_name in */ ; do
             else
                 export dest="/www/wwwroot/www.crescb.com/$folder_name"
             fi
-        } && cp -r ./book/* $dest && cp ../favicon.png $dest/favicon.png && rm -rf $dest/favicon.svg ./index.html ./index.md book && cd ..
+        }
+        if [ ! -d "$dest" ]; then
+            mkdir -p "$dest"
+        fi
+        cp -r ./book/* $dest && cp ../favicon.png $dest/favicon.png && rm -rf $dest/favicon.svg ./index.html ./index.md book && cd ..
     fi
 done && git status
