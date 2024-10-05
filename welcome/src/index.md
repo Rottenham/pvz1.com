@@ -16,6 +16,7 @@
 - [植圈同人文库](./fanfic/index.md)
 - [断代技术史](./history/index.md)
 - [时空数据](./timespace/index.md)
+- [历史文献档案馆](./archive/index.md)
 
 ## 🔗友情链接
 
