@@ -12,7 +12,7 @@ pvz1.com 由 Crescendo 独立开发、出资、维护。
 
 哔哩哔哩：[Crescebdo](https://space.bilibili.com/8252252)
 
-电子邮箱：forum@crescb.com
+电子邮箱：info@pvz1.com
 
 ## 🔨网站架构
 域名注册：[Tencent Cloud Domains](https://www.tencentcloud.com/en/products/domain)
