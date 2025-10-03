@@ -8,6 +8,7 @@
 - [PVZ Wiki, 搜集关于 PVZ 的一切](https://wiki.pvz1.com)
 - [IZE 扑克生成器🃏](https://www.pvz1.com/poker/)
 - [IZE 图像识别](https://www.pvz1.com/ize/)
+- [SE 扑克生成器🃏](https://www.pvz1.com/poker-se/)
 - [植吧海战大逃杀](https://www.pvz1.com/haizhan/)
 
 ## 📃文献归档
